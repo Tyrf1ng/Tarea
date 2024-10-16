@@ -2,7 +2,7 @@
 ## Instrucciones de Uso
 
 1. **Asegurarse que los archivos "(Nombre).cpp" y "Makefile" estén en el mismo directorio**
- # Nombre
+ ### Nombre
  Es el nombre del archivo .cpp
  
 2. **Compilar el programa:**

@@ -23,8 +23,8 @@
 
     ## Integrantes
 
-    - Cristobal Betancurt Palma
-    - Jonathan Olivares Garces
+    - [@Cristobal Betancurt Palma](https://github.com/CristoxHD)
+    - [@Jonathan Olivares Garces](https://github.com/Tyrf1ng)
 
 
     ## Grupo 9

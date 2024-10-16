@@ -1,17 +1,21 @@
 
 ## Instrucciones de Uso
 
-1. **Compilar el programa:**
+1. **Asegurarse que los archivos "(Nombre).cpp" y "Makefile" estén en el mismo directorio**
+ # Nombre
+ Es el nombre del archivo .cpp
+ 
+2. **Compilar el programa:**
     ```sh
     make
     ```
 
-2. **Ejecutar el programa:**
+3. **Ejecutar el programa:**
     ```sh
-    ./Tarea (cantidad de metros) (cantidad de autos)
+    ./(Nombre de archivo) (cantidad de metros) (cantidad de autos)
     ```
 
-3. **Cerrar el programa:**
+4. **Cerrar el programa:**
     ```sh
     make clean
     ```
@@ -23,4 +27,4 @@
     - Jonathan Olivares Garces
 
 
-    ## Grupo 9 
+    ## Grupo 9

@@ -1,6 +1,26 @@
-Para ejecutar el programa, se debe escribir en la consola:
 
-1) make
-2) ./Tarea (cantidad de metros) (cantidad de autos)
-3) Para cerrar el programa es: make clean
-Eso es todo.
+## Instrucciones de Uso
+
+1. **Compilar el programa:**
+    ```sh
+    make
+    ```
+
+2. **Ejecutar el programa:**
+    ```sh
+    ./Tarea (cantidad de metros) (cantidad de autos)
+    ```
+
+3. **Cerrar el programa:**
+    ```sh
+    make clean
+    ```
+
+
+    ## Integrantes
+
+    - Cristobal Betancurt Palma
+    - Jonathan Olivares Garces
+
+
+    ## Grupo 9 
